@@ -1,4 +1,4 @@
-The /data folder contains the test genomic sequences 
+The /data folder contains the test genomic sequences (.txt) and the results of all simulations to make the boxplots (.csv)
 
 boxplot.py generate the boxplots (time and accuracy)
 
